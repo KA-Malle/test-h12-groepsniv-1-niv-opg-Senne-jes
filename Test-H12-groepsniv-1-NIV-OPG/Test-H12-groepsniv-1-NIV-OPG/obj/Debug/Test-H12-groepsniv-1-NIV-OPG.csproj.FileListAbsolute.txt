@@ -1,0 +1,7 @@
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.exe.config
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.exe
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.pdb
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.exe
+C:\Users\Senne\Documents\git_SenneJ\test-h12-groepsniv-1-niv-opg-Senne-jes\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.pdb
